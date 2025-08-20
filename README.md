@@ -15,9 +15,7 @@
 - Data analysis & visualization  
 
 **Tools & Frameworks:**  
-- .NET 
 - Git & GitHub  
-- log4net  
 - Heap, Queue, TreeMap data structures  
 
 ---
