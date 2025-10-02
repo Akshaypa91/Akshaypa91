@@ -11,8 +11,7 @@
 - Algorithm design & optimization  
 - Trading system development  
 - Performance tuning (low-latency systems)  
-- Web UI development (Apple Store-like layouts)  
-- Data analysis & visualization  
+- Web development 
 
 **Tools & Frameworks:**  
 - Git & GitHub  
