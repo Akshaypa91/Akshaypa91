@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Pagare  
 
-💻 **B.Tech CSE @ COEP Technological University** | Algorithmic Trading Enthusiast | Problem Solver  
+💻 **B.Tech CSE @ COEP Technological University** | Algorithmic Trading | Problem Solver  
 
 ## 🛠 Tech Stack  
 
