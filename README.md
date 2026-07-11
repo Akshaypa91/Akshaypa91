@@ -12,9 +12,9 @@ I like problems where **speed and precision** decide the outcome — from market
 |---------|-------------|------|
 | [Systematic Trading Engine](https://github.com/Akshaypa91/Systematic-Trading-Engine) | Systematic trading engine for NSE/BSE built on mathematical strategies | JavaScript |
 | [Multithreaded Log Analyzer](https://github.com/Akshaypa91/Multithreaded_Log_Analyzer) | Producer-Consumer log analyzer in Java — **~1.7x speedup** via parallel processing and concurrent data structures | Java |
-| [QF Dashboard](https://github.com/Akshaypa91/QF_Dashboard_Task-1) | Stock visualization dashboard for the Quantitative Finance Club | React, Lightweight Charts |
+| [Skills Platform](https://github.com/Akshaypa91/Skills-Platform) | Web platform for skill development | JavaScript |
 | [Stock Signals](https://github.com/Akshaypa91/Stock_Signals) | Signal generation for equity markets | Python |
-| [VocaBridge Multilingual](https://github.com/Akshaypa91/VocaBridge_Multilingual) | Multilingual communication tool — KJ Somaiya Hackathon | Java |
+| [DSA Project](https://github.com/Akshaypa91/DSA_Project) | Data structures & algorithms project | C |
 
 ---
 
