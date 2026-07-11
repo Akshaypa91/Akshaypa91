@@ -10,11 +10,11 @@ I like problems where **speed and precision** decide the outcome — from market
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Systematic Trading Engine](https://github.com/Akshaypa91/Systematic-Trading-Engine) | Systematic trading engine for NSE/BSE built on mathematical strategies | JavaScript |
-| [Multithreaded Log Analyzer](https://github.com/Akshaypa91/Multithreaded_Log_Analyzer) | Producer-Consumer log analyzer in Java — **~1.7x speedup** via parallel processing and concurrent data structures | Java |
-| [Skills Platform](https://github.com/Akshaypa91/Skills-Platform) | Web platform for skill development | JavaScript |
-| [Stock Signals](https://github.com/Akshaypa91/Stock_Signals) | Signal generation for equity markets | Python |
-| [DSA Project](https://github.com/Akshaypa91/DSA_Project) | Data structures & algorithms project | C |
+| [SYSTRA — Systematic Trading Engine](https://github.com/Akshaypa91/Systematic-Trading-Engine) | Full-stack algorithmic trading platform for NSE/BSE — 4 statistical strategies (mean reversion, MA crossover, RSI, Bollinger), paper & **live trading via Upstox**, risk limits & kill switch, walk-forward backtesting with Sharpe/Sortino/CAGR | Node.js, Express, React, TiDB, WebSocket |
+| [Stock Signals](https://github.com/Akshaypa91/Stock_Signals) | Live NSE signal dashboard — scans **2,600+ equities** with two 52-week-breakout strategies, auto Entry/SL/T1/T2 via ATR, real-time LTP over WebSocket, trade journal with P&L | Python, FastAPI, PostgreSQL, Redis, React |
+| [Multithreaded Log Analyzer](https://github.com/Akshaypa91/Multithreaded_Log_Analyzer) | Producer-Consumer log analyzer — **~1.7x speedup** via parallel processing and concurrent data structures | Java |
+| [MiniGit](https://github.com/Akshaypa91/DSA_Project) | Git reimplemented in C — commits, branching, merging, diff — built on linked lists, hash tables, and trees | C |
+| [Skills Platform](https://github.com/Akshaypa91/Skills-Platform) | Full-stack course platform — learner site, admin dashboard, REST API with Stripe checkout, Clerk auth, and Cloudinary uploads | React, Express, MongoDB |
 
 ---
 
@@ -59,7 +59,7 @@ I like problems where **speed and precision** decide the outcome — from market
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaypagare91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaypagare)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lootf131@gmail.com)
 
 ---
