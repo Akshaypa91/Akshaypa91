@@ -51,8 +51,9 @@ I like problems where **speed and precision** decide the outcome — from market
 
 ## 📈 GitHub Stats
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshaypa91&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaypa91&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshaypa91&hide_border=true)
+
+![Contribution Graph](https://ghchart.rshah.org/Akshaypa91)
 
 ---
 
